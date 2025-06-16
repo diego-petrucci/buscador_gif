@@ -1,16 +1,21 @@
-# buscador_gif
+# 📱 Buscador de GIF
 
-A new Flutter project.
+Um buscador de GIFs animados desenvolvido com Flutter, utilizando a API do GIPHY. Permite ao usuário buscar, visualizar e compartilhar GIFs de maneira simples, rápida e divertida.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Funcionalidades
 
-A few resources to get you started if this is your first Flutter project:
+- 🔍 Busca de GIFs por palavra-chave  
+- 🖼️ Exibição de resultados em formato de grade  
+- ⚡ Carregamento assíncrono de GIFs em alta resolução  
+- 📤 Compartilhamento de GIFs  
+- 🔥 Exibição de GIFs populares ou em destaque  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tecnologias
+
+- Flutter + Dart  
+- API do GIPHY  
+- HTTP package   
